@@ -1,0 +1,4 @@
+#Wed Feb 12 18:25:06 BDT 2020
+base.0=E\:\\New folder\\Newsapi2\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
